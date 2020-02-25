@@ -24,8 +24,3 @@
 		color: black
 	}
 
-	.clearfix::after {
-		content: "";
-		display: block;
-		clear: both;
-	}
