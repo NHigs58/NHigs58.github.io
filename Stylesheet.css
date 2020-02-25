@@ -1,0 +1,22 @@
+
+	body {
+		background-color: cornflowerblue;
+	}
+	
+	h1 {
+		background-color: rgb(211, 241, 163);
+		font-family: arial;
+		border: 3px solid rgb(207, 67, 49);
+		}
+
+	p {
+		font-size: 22px;
+		font-weight: bold;
+		line-height: 22px;
+		}
+	
+	ul {
+		font-family: arial;
+		background-color: yellow;
+		}
+
