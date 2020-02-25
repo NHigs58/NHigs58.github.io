@@ -17,6 +17,15 @@
 	
 	ul {
 		font-family: arial;
-		background-color: yellow;
+	
 		}
 
+	a {
+		color: black
+	}
+
+	.clearfix::after {
+		content: "";
+		display: block;
+		clear: both;
+	}
